@@ -35,7 +35,7 @@ Students will be placed into groups. Each group will be developing a different c
 
  # Advanced
  
- ## Level 6
+ ## Level 7
  In this phase, each student has to specialize in one of the following software development roles:
 
 - [x] Full-Stack Web Developer
