@@ -25,9 +25,6 @@ Material | Duration | Language |
 
 Students will be asked to create an account in [HackerRank](https://www.hackerrank.com/) platform to assess student learn.
 
-To sucessfully pass this level students should:
+To successfully pass this level students should:
 1. Solve all the *"Easy"* problems for Python in HackerRank.
-2. Pass [Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) availabe in HackerRank.
-
-
-
+2. Pass [Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) available in HackerRank.
