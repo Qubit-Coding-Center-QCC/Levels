@@ -44,11 +44,11 @@ Students during this level they will be introduced to:
 - [x] Mobile Developer
 - [x] AI and Machine learning Specialist
 - [x] DevOps Engineer/ Infrastructure Developer
-- [ ] Data Analyst
-- [ ] Game Developer
-- [ ] Blockchain Developer
-- [ ] Computer Security Engineer
-- [ ] Quality Assurance Engineer
+- [ ] Data Analyst (to be supported in 2022)
+- [ ] Game Developer (to be supported in 2022)
+- [ ] Blockchain Developer (to be supported in 2022)
+- [ ] Computer Security Engineer (to be supported in 2022)
+- [ ] Quality Assurance Engineer (to be supported in 2022)
 
 
 
