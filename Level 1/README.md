@@ -4,7 +4,7 @@ This course will be based on the [Python for Everybody](https://www.py4e.com/les
 
 Material | Duration | Language |
 ------------ | ------------- | ---------------
-[Python for Everybody](https://www.py4e.com/lessons) | 8 weeks -> 10 hours per week | Python
+[Python for Everybody](https://www.py4e.com/lessons) | 4 weeks -> 10 hours per week | Python
 
 ## Topics Covered
 
@@ -18,8 +18,6 @@ Material | Duration | Language |
 8. Lists 
 9. Dictionaries 
 10. Tuples 
-11. Regular Expressions 
-12. Object-Oriented Programming 
 
 ## Assessment
 
