@@ -1,18 +1,31 @@
-# Software Development (The full Cycle)
+# MERN Technology Stack
 
-Upuntil now, students were just intorduced to varoius programming concept, languages and tools. At this level, students will put what they learnt into practice.
-The course is designed to mimic real-world workplace setup.
-Students will be placed into groups. Each group will be developing a different complete web application. The application will be developed using the MERN Stack.
-MERN is the acronym for MongoDB, Express JS, React JS, and Node JS.
+At this level, students will start to use language Framework specifically they will be introduced to MERN Technology Stack. MERN is the acronym for MongoDB, Express JS, React JS, and Node JS.
+
+
 
 Material | Duration | Language |
------------- | ------------- | ---------------
- Web application project| 4 weeks -> 10 hours per week | JavaScript
+------------ | ----------- | -------------
+ [FreeCodeCamp React & Redux](https://www.freecodecamp.org/learn/front-end-libraries/)| 2 weeks -> 10 hours per week | JavaScript
+ [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-w1v9yg4WcHgKd4aaqIZscw&siteID=JVFxdTr9V80-w1v9yg4WcHgKd4aaqIZscw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)| 4 weeks  -> 12 hours per week | JavaScript
 
 
 ## Topics Covered
-1. The Scrum framework
-2. Issue tracking tools like Github Issue and Jira.
-3. Requesting help and support using Stack Overflow and Github Issue.
-4. Team management and communication tools such as Gitter, Slack and ClickUp.
+1. React
+2. Redux
+3. NodeJS
+4. Express
+5. MangoDB
+
+
+
+## Assessment
+To successfully pass this level students should:
+
+1. Pass [JavaScript (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/javascript_basic)
+2. Pass [Node.js (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/nodejs_intermediate) available in HackerRank.
+3. Pass [React (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/react_basic) available in HackerRank.
+
+
+
 
