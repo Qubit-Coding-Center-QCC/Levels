@@ -40,15 +40,15 @@ Students during this level they will be introduced to:
  ## Level 6
  In this phase, each student has to specialize in one of the following software development roles:
 
-1. Full-Stack Web Developer
-2. Mobile Developer
-3. Data Analyst
-4. DevOps Engineer/ Infrastructure Developer
-5. AI and Machine learning Specialist
-6. Game Developer
-7. Blockchain Developer
-8. Computer Security Engineer
-9. Quality Assurance Engineer
+- [x] Full-Stack Web Developer
+- [x] Mobile Developer
+- [x] AI and Machine learning Specialist
+- [x] DevOps Engineer/ Infrastructure Developer
+- [ ] Data Analyst
+- [ ] Game Developer
+- [ ] Blockchain Developer
+- [ ] Computer Security Engineer
+- [ ] Quality Assurance Engineer
 
 
 
