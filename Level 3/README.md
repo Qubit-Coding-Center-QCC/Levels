@@ -12,10 +12,12 @@ Material | Duration | Language |
 1. Regular Expressions
 2. Network Programming
 3. Using Web Services
-4. Object-Oriented Programming
-5. Databases
-6. Data Visualization
-7. Algorithm
+4. Data Structure
+5. Object-Oriented Programming
+6. Databases
+7. Data Visualization
+8. Algorithm
+
 
 ## Assessment
 
