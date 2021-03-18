@@ -18,8 +18,5 @@ Material | Duration | Language |
 7. Security and Cryptography
 8. Potpourri
 
-## Assessment
-
-
-To successfully pass this level students should:
+## Exercises
 1. Perform all the exersises assosiated with each lesson
