@@ -1,5 +1,5 @@
 
-In Qubit you will start at level 1 and as you successfully complete each level you will move to the next one. We have three phases: foundation, intermediate and advanced.
+In Qubit you will start at level 1 and as you successfully complete each level you will move to the next one. We have three phases: foundation, intermediate and advanced. Many of the course materials are adapted from [The Odin Project](https://github.com/TheOdinProject/curriculum), written by Erik Trautman and [The OSSU curriculum](https://github.com/ossu/computer-science#introduction-to-programming)
 
 # Foundation
 
