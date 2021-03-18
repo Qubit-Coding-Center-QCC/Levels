@@ -24,7 +24,7 @@ Material | Duration | Language |
 
 ## Assessment
 
-Students will be asked to create an account in [HackerRank](https://www.hackerrank.com/) platform to assess student learn.
+Students will be asked to create an account in [HackerRank](https://www.hackerrank.com/) platform to assess student learning.
 
 To successfully pass this level students should:
 1. Pass [Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) available in HackerRank.
