@@ -20,3 +20,8 @@ Material | Duration | Language |
 
 ## Exercises
 1. Perform all the exersises assosiated with each lesson
+
+## Assessment
+To sucsessfull pass this level students should solve all:
+
+1. Linux Shell practic questions in HackerRank.
