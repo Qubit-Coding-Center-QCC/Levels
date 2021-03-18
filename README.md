@@ -25,17 +25,13 @@ There are a number of tools that are widely used to make the programming process
 Topics covered in this level include terminals and shell scripting, vim, command-line environments, version control, and more.
  
  ## Level 5 (MERN Technology Stack)
+ At this level, students will start to use language Framework specifically they will be introduced to MERN Technology Stack. MERN is the acronym for MongoDB, Express JS, React JS, and Node JS.
  
  ## Level 6 (Software Development the Full-Cycle)
-At this level, students will be put into groups. Each group will be developing a different complete web application. The application will be developed using the MERN Stack. 
+Up until now, students were just introduced to various programming concepts, languages, and tools. At this level, students will put what they learned into practice.
+The course is designed to mimic a real-world workplace setup.
+Students will be placed into groups. Each group will be developing a different complete web application. The application will be developed using the MERN Stack.
 
-Students during this level will be introduced to:
-
-* The **Scrum framework**
-* Issue tracking tools like _Github Issue_ and _Jira_.
-* Requesting help and support using _Stack Overflow_ and _Github Issue_.
-* Team management and communication tools such as _Gitter_, _Slack_ and _ClickUp_.
-* Other platforms such as _LinkedIn_, _Google Drive_,_Canva_
 
  # Advanced
  
