@@ -12,7 +12,7 @@ Half-hour will be for theory and explanation and 1 hour and 30 minutes in each s
  ## Level 2 (Independent Programming)
 Level 3 is an independent programming course. This course will retouch the programing concept you studied in level1 using the Python programming language and introduce two new programming languages that are HTML and CSS. The course is two weeks long, 6 days per week and 3 hours per day. The students have the freedom to perform these sessions in the time most suitable for them. However, they have to come to the institution to enable the instructor to track their performance on the course.
 
-## Level 3 (Introduction to Database, Algorithm and Advance Programming Concept)
+## Level 3 (Advanced Topics in Computer programming)
 At this level, students will learn about the different available types of databases and they will be introduced to important algorithms that are frequently used such as quicksort, shortest path...etc. Furthermore, using **Java Script** students will be introduced to advance programming concepts such as Reactive programming, Design pattern, and Software architecture patterns.
  
  
