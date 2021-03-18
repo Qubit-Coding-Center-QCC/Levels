@@ -18,16 +18,21 @@ Material | Duration | Language |
 7. Data Visualization
 8. Algorithm
 
+# Exersise
+
+During the course students should solve all the problems for:
+1. **Database** in HackerRank.
+2. **Data Structure** in HackerRank.
+3. **SQL** in HackerRank.
+4. **Algorithm** in HackerRank.
+5. **Regex** in HackerRank.
 
 ## Assessment
 
 To successfully pass this level students should:
-1. Solve all the problems for **Database** in HackerRank.
-2. Solve all the problems for **Data Structure** in HackerRank.
-3. Solve all the problems for **SQL** in HackerRank.
-4. Solve all the problems for **Algorithm** in HackerRank.
-5. Pass [Problem Solving (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) available in HackerRank.
-6. Pass [Python (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/python_basic) available in HackerRank.
+
+1. Pass [Problem Solving (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) available in HackerRank.
+2. Pass [Python (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/python_basic) available in HackerRank.
 
 
 
