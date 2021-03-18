@@ -19,10 +19,12 @@ Material | Duration | Language |
 9. Dictionaries 
 10. Tuples 
 
+## Exercises
+1. Solve all the *"Easy"* problems for Python in HackerRank.
+
 ## Assessment
 
 Students will be asked to create an account in [HackerRank](https://www.hackerrank.com/) platform to assess student learn.
 
 To successfully pass this level students should:
-1. Solve all the *"Easy"* problems for Python in HackerRank.
-2. Pass [Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) available in HackerRank.
+1. Pass [Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) available in HackerRank.
