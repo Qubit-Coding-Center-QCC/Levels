@@ -1,33 +1,27 @@
-# Introduction to Programming
+# Independent Programming
+Level 2 is an independent programming course. This course will retouch the programing concept you studied in level1 using the Python programming language and introduce two new programming languages that are HTML and CSS. This course will be based on the [Full-Stack Web Development](https://www.arabcoders.ae/enroll) 1 million Arab coder initiative.
 
-This course will be based on the [Python for Everybody](https://www.py4e.com/lessons) online learning material. 
+The course is two weeks long, 6 days per week and 3 hours per day. The students have the freedom to perform these sessions in the time most suitable for them. However, they have to come to the institution to enable the instructor to track their performance on the course.
 
 Material | Duration | Language |
 ------------ | ------------- | ---------------
-[Python for Everybody](https://www.py4e.com/lessons) | 8 weeks -> 10 hours per week | Python
+[Full-Stack Web Development](https://www.arabcoders.ae/enroll)| 2 weeks -> 18 hours per week | Python HTML CSS JavaScript
 
 ## Topics Covered
 
-1. Why Program? 
-2. Variables, expressions, and statements 
-3. Conditional Execution 
-4. Functions 
-5. Loops and Iterations 
-6. Strings 
-7. Files 
-8. Lists 
-9. Dictionaries 
-10. Tuples 
-11. Regular Expressions 
-12. Object-Oriented Programming 
+1. Introcution to HTML
+2. Introduction to CSS
+3. Introduction to JavaScript and DOM
+
+
 
 ## Assessment
 
 Students will be asked to create an account in [HackerRank](https://www.hackerrank.com/) platform to assess student learn.
 
 To successfully pass this level students should:
-1. Solve all the *"Easy"* problems for Python in HackerRank.
-2. Pass [Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) available in HackerRank.
+
+1. Acquire Certificate of completion for the course [Full-Stack Web Development](https://www.arabcoders.ae/enroll)
 
 
 
