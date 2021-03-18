@@ -24,8 +24,10 @@ At this level, students will learn about the different available types of databa
 There are a number of tools that are widely used to make the programming process easier, faster, and more efficient. 
 Topics covered in this level include terminals and shell scripting, vim, command-line environments, version control, and more.
  
- ## Level 5 (Software Development)
-At this level, students will be put into groups. Each group will be developing a different complete web application. The application will be developed using the MERN Stack. MERN is the acronym for MongoDB, Express JS, React JS, and Node JS. 
+ ## Level 5 (MERN Technology Stack)
+ 
+ ## Level 6 (Software Development the Full-Cycle)
+At this level, students will be put into groups. Each group will be developing a different complete web application. The application will be developed using the MERN Stack. 
 
 Students during this level will be introduced to:
 
