@@ -36,6 +36,8 @@ Students during this level they will be introduced to:
 * Other platforms such as _LinkedIn_, _Google Drive_,_Canva_
 
  # Advanced
+ 
+ ## Level 6
  In this phase, each student has to specialize in one of the following software development roles:
 
 1. Full-Stack Web Developer
