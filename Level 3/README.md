@@ -5,18 +5,16 @@ Part of this course will be based on the [Python for Everybody](https://www.py4e
 
 Material | Duration | Language |
 ------------ | ------------- | ---------------
-[Python for Everybody](https://www.py4e.com/lessons) | 4 weeks -> 10 hours per week | Python
+[Python for Everybody](https://www.py4e.com/lessons) | 4 weeks -> 8 hours per week | Python
 
 ## Topics Covered
 
 1. Regular Expressions
 2. Network Programming
 3. Using Web Services
-4. Data Structure
-5. Object-Oriented Programming
-6. Databases
-7. Data Visualization
-8. Algorithm
+4. Object-Oriented Programming
+5. Databases
+6. Data Visualization
 
 # Exersise
 
@@ -24,8 +22,7 @@ During the course students should solve all the problems for:
 1. **Database** in HackerRank.
 2. **Data Structure** in HackerRank.
 3. **SQL** in HackerRank.
-4. **Algorithm** in HackerRank.
-5. **Regex** in HackerRank.
+4. **Regex** in HackerRank.
 
 ## Assessment
 
