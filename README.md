@@ -51,5 +51,6 @@ Students will be placed into groups. Each group will be developing a different c
 
 
 
-
+API
+https://docs.coinapi.io/?javascript#exchange-rates
 
